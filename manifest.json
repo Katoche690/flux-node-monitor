@@ -1,0 +1,10 @@
+{
+  "domain": "flux_monitor",
+  "name": "Flux Node Monitor",
+  "documentation": "https://github.com/Katoche690/flux_monitor",
+  "requirements": [],
+  "codeowners": [],
+  "version": "1.0.0",
+  "iot_class": "cloud_polling",
+  "config_flow": true
+}
